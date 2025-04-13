@@ -19,4 +19,5 @@ It suggests similar movies based on genre and keywords using TF-IDF vectorizatio
 
 ## Run the app locally
 ```bash
+pip install -r requirements.txt
 streamlit run app.py
